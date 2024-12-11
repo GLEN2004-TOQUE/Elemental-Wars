@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: b1b679dddad55004bbcefcf6f74f2c5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3408306562608484043
+    second: SORDAN MONSTER_0
+  - first:
+      213: -3943348662765671373
+    second: SORDAN MONSTER_1
+  - first:
+      213: -3179192945412271034
+    second: SORDAN MONSTER_2
+  - first:
+      213: 1990112272540860565
+    second: SORDAN MONSTER_3
+  - first:
+      213: -3337735552951914464
+    second: SORDAN MONSTER_4
+  - first:
+      213: 6991887677194810022
+    second: SORDAN MONSTER_5
+  - first:
+      213: -8822926857720872354
+    second: SORDAN MONSTER_6
+  - first:
+      213: -1324683746519757772
+    second: SORDAN MONSTER_7
+  - first:
+      213: -257731111685235532
+    second: SORDAN MONSTER_8
+  - first:
+      213: 8261991175794272197
+    second: SORDAN MONSTER_9
+  - first:
+      213: 9051586423337103625
+    second: SORDAN MONSTER_10
+  - first:
+      213: 551430759873371413
+    second: SORDAN MONSTER_11
+  - first:
+      213: 3877225955086316610
+    second: SORDAN MONSTER_12
+  - first:
+      213: -5161735771918618226
+    second: SORDAN MONSTER_13
+  - first:
+      213: -7779890312086368733
+    second: SORDAN MONSTER_14
+  - first:
+      213: 2076867594073529470
+    second: SORDAN MONSTER_15
+  - first:
+      213: 2012970722171621579
+    second: SORDAN MONSTER_16
+  - first:
+      213: 4329443364803225416
+    second: SORDAN MONSTER_17
+  - first:
+      213: -1516146850628748695
+    second: SORDAN MONSTER_18
+  - first:
+      213: 3736175722098286281
+    second: SORDAN MONSTER_19
+  - first:
+      213: 4856943146660604134
+    second: SORDAN MONSTER_20
+  - first:
+      213: -4935623968610141524
+    second: SORDAN MONSTER_21
+  - first:
+      213: 345634972041915707
+    second: SORDAN MONSTER_22
+  - first:
+      213: -296937862186587251
+    second: SORDAN MONSTER_23
+  - first:
+      213: -3616471648861094788
+    second: SORDAN MONSTER_24
+  - first:
+      213: -3896695669503104034
+    second: SORDAN MONSTER_25
+  - first:
+      213: 7471088403019947014
+    second: SORDAN MONSTER_26
+  - first:
+      213: 8759949662857339202
+    second: SORDAN MONSTER_27
+  - first:
+      213: -8306372283450391658
+    second: SORDAN MONSTER_28
+  - first:
+      213: -4124391987532714130
+    second: SORDAN MONSTER_29
+  - first:
+      213: 3702501589430215268
+    second: SORDAN MONSTER_30
+  - first:
+      213: -754101953375380813
+    second: SORDAN MONSTER_31
+  - first:
+      213: -7887108692835471855
+    second: SORDAN MONSTER_32
+  - first:
+      213: -3632822195501802675
+    second: SORDAN MONSTER_33
+  - first:
+      213: 5524934477041471896
+    second: SORDAN MONSTER_34
+  - first:
+      213: -4245188066252938765
+    second: SORDAN MONSTER_35
+  - first:
+      213: -4989558204463455042
+    second: SORDAN MONSTER_36
+  - first:
+      213: -6370396015065168355
+    second: SORDAN MONSTER_37
+  - first:
+      213: 7696816831722834119
+    second: SORDAN MONSTER_38
+  - first:
+      213: -5448231359041308135
+    second: SORDAN MONSTER_39
+  - first:
+      213: 8069630719551457764
+    second: SORDAN MONSTER_40
+  - first:
+      213: -6070126997302134317
+    second: SORDAN MONSTER_41
+  - first:
+      213: -1984695098962563497
+    second: SORDAN MONSTER_42
+  - first:
+      213: 4853173973169690386
+    second: SORDAN MONSTER_43
+  - first:
+      213: -1020074215139366892
+    second: SORDAN MONSTER_44
+  - first:
+      213: -26208926433791062
+    second: SORDAN MONSTER_45
+  - first:
+      213: 8883888200992393405
+    second: SORDAN MONSTER_46
+  - first:
+      213: 841021613724635996
+    second: SORDAN MONSTER_47
+  - first:
+      213: 8321580947559877849
+    second: SORDAN MONSTER_48
+  - first:
+      213: -3856847588911263933
+    second: SORDAN MONSTER_49
+  - first:
+      213: -6733728507324065797
+    second: SORDAN MONSTER_50
+  - first:
+      213: 2083182171151028011
+    second: SORDAN MONSTER_51
+  - first:
+      213: -2386505536068631870
+    second: SORDAN MONSTER_52
+  - first:
+      213: 2020185344338453077
+    second: SORDAN MONSTER_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SORDAN MONSTER_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 562
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b6124d3343b0d0800000000000000
+      internalID: -3408306562608484043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SORDAN MONSTER_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 563
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c2752b8496649c0800000000000000
+      internalID: -3943348662765671373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SORDAN MONSTER_2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 564
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64416483cdc31e3d0800000000000000
+      internalID: -3179192945412271034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SORDAN MONSTER_3
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 572
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59081fb519c4e9b10800000000000000
+      internalID: 1990112272540860565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
